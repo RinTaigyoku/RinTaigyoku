@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/RinTaigyoku/RinTaigyoku/refs/heads/main/assets/dianjuren.jpg" width="25%" align="right" />
+<img src="https://pic1.imgdb.cn/item/69fbc22c4498ed47aaad22c2.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=2850&pause=300&center=true&multiline=true&width=1300&height=140&lines=Welcome+to+my+GitHub.;I'm+RinTaigyoku." width="70%" />
 <br><br>
 <pre>
@@ -9,7 +9,7 @@
     🎨：二次元 • 游戏 • 音乐 • 资源收集
 </pre>
 <br>
-<img src="https://raw.githubusercontent.com/RinTaigyoku/RinTaigyoku/refs/heads/main/assets/hajimi.png" height="40" />
+<img src="https://pic1.imgdb.cn/item/69fbc2594498ed47aaad234a.gif" height="40" />
 <br><br>
     
 </div>
