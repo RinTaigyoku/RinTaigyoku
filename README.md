@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**RinTaigyoku/RinTaigyoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://raw.githubusercontent.com/RinTaigyoku/RinTaigyoku/refs/heads/main/assets/dianjuren.jpg" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=2850&pause=300&center=true&multiline=true&width=1300&height=140&lines=Welcome+to+my+GitHub.;I'm+RinTaigyoku." width="70%" />
+<br><br>
+<pre>
+    💼：桜都科技联合创始人、音乐人、UP主
+    💻：JavaScript、PHP、HTML、XML、JSON…
+    🎮：彩虹六号、明日方舟、第五人格
+    🎨：二次元 • 游戏 • 音乐 • 资源收集
+</pre>
+<br>
+<img src="https://raw.githubusercontent.com/RinTaigyoku/RinTaigyoku/refs/heads/main/assets/hajimi.png" height="40" />
+<br><br>
+    
+</div>
