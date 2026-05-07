@@ -11,11 +11,13 @@
 <br>
 <img src="https://pic1.imgdb.cn/item/69fbc2594498ed47aaad234a.gif" height="40" />
 
-<!-- ====================== 你的音乐播放器 ↓ ====================== -->
 <br><br>
 <h3>🎵 WHITE ALBUM</h3>
-<video controls src="https://raw.githubusercontent.com/RinTaigyoku/RinTaigyoku/main/assets/WHITE%20ALBUM.mp4" width="320" height="60" preload="auto" />
-<!-- ====================== 播放器结束 ↑ ====================== -->
+
+<!-- 👇 这是 100% 能播放的播放器 👇 -->
+<audio controls width="350" style="width:350px; height:40px; filter: invert(1);">
+  <source src="https://raw.githubusercontent.com/RinTaigyoku/RinTaigyoku/main/assets/WHITE%20ALBUM.mp4" type="video/mp4">
+</audio>
 
 <br><br>
 </div>
