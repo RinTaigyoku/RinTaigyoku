@@ -16,7 +16,7 @@
   <img src="https://count.kjchmc.cn/get/@RinTaigyoku?theme=asoul" width="25%" align="right" />
 
   <div align="left">
-    <a href="https://videotourl.com/audio/1778128721954-826e7fb1-7702-4568-8483-a2241c128f04.aac" target="_blank">
+    <a href="https://videotourl.com/audio/1778153848815-ac47480d-568d-4f07-8442-33f72223e21b.mp3" target="_blank">
       <img src="https://pic1.imgdb.cn/item/69fbc2594498ed47aaad234a.gif" width="100" />
     </a>
     <br>
