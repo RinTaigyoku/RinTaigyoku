@@ -10,8 +10,7 @@
 
 </div>
 
-<br><br><br><br><br><br>
-
+<br><br><br>
 <div>
 
   <img src="https://count.kjchmc.cn/get/@RinTaigyoku?theme=asoul" width="25%" align="right" />
