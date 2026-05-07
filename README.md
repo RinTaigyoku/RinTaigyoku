@@ -14,13 +14,12 @@
 <br><br>
 <h3>🎵 WHITE ALBUM</h3>
 
-<!-- 只有封面的干净卡片，点击跳转播放 -->
-<a href="https://videotourl.com/audio/1778116748227-3e34a1a3-f6b6-4a89-92c1-45c4330e6394.mp3" style="text-decoration: none;">
+<!-- 加了 target="_blank"，点击新建标签页播放，不离开当前页面 -->
+<a href="https://videotourl.com/audio/1778116748227-3e34a1a3-f6b6-4a89-92c1-45c4330e6394.mp3" target="_blank" style="text-decoration: none;">
   <div style="background: #161b22; border-radius: 12px; padding: 16px; width: 240px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
     <img src="https://pic1.imgdb.cn/item/69fbe7d14498ed47aaad9263.jpg" width="200" style="border-radius: 8px;" />
   </div>
 </a>
-<!-- 封面下面的提醒文字 -->
 <p style="font-size:14px; color:#aaa; margin-top: 12px;">点击封面播放音乐</p>
 
 <br><br>
