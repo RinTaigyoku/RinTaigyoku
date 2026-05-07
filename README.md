@@ -18,9 +18,16 @@
 <br>
 </div>
 
-<div style="margin-left: 40px; margin-top: 60px;">
+<div style="margin-left: 40px; margin-top: 60px; display: flex; align-items: center; gap: 24px;">
   <a href="https://videotourl.com/audio/1778116748227-3e34a1a3-f6b6-4a89-92c1-45c4330e6394.mp3" target="_blank" rel="noopener noreferrer">
     <img src="https://pic1.imgdb.cn/item/69fbc2594498ed47aaad234a.gif" width="100" alt="WHITE ALBUM 圆形封面" />
   </a>
-  <p style="font-size: 10px; color:#aaa; margin: 8px 0 0 0; text-align: left;">点哈基米即可播放音乐</p>
+</div>
+<p style="font-size: 10px; color:#aaa; margin: 8px 0 0 40px; text-align: left;">点哈基米即可播放音乐</p>
+
+<div align="center" style="margin-top: 80px;">
+  <img src="https://count.kjchmc.cn/get/@RinTaigyoku?theme=asoul" 
+       alt="ASOUL风格访问统计" 
+       align="right" 
+       width="25%" />
 </div>
