@@ -10,6 +10,12 @@
 </pre>
 <br>
 <img src="https://pic1.imgdb.cn/item/69fbc2594498ed47aaad234a.gif" height="40" />
+
+<!-- ====================== 你的音乐播放器 ↓ ====================== -->
 <br><br>
-    
+<h3>🎵 WHITE ALBUM</h3>
+<video controls src="https://github.com/RinTaigyoku/RinTaigyoku/tree/main/assets/WHITE ALBUM.mp4" width="320" height="60" />
+<!-- ====================== 播放器结束 ↑ ====================== -->
+
+<br><br>
 </div>
