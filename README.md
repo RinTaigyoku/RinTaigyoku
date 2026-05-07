@@ -22,5 +22,5 @@
   <a href="https://videotourl.com/audio/1778116748227-3e34a1a3-f6b6-4a89-92c1-45c4330e6394.mp3" target="_blank" rel="noopener noreferrer">
     <img src="https://pic1.imgdb.cn/item/69fbc2594498ed47aaad234a.gif" width="100" alt="WHITE ALBUM 圆形封面" />
   </a>
-  <p style="font-size: 10px; color:#aaa; margin: 8px 0 0 0; text-align: left;">👈 点击圆形封面播放音乐</p>
+  <p style="font-size: 10px; color:#aaa; margin: 8px 0 0 0; text-align: left;">点哈基米即可播放音乐</p>
 </div>
