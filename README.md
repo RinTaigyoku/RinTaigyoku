@@ -13,11 +13,19 @@
 
 <br><br>
 <h3>🎵 WHITE ALBUM</h3>
-<!-- 点击封面直接播放你的MP3 -->
-<a href="https://videotourl.com/audio/1778116748227-3e34a1a3-f6b6-4a89-92c1-45c4330e6394.mp3">
-  <img src="https://pic1.imgdb.cn/item/69fbe7d14498ed47aaad9263.jpg" width="200" alt="点击播放 WHITE ALBUM" />
-</a>
-<p style="font-size:14px; color:#aaa;">点击封面播放音乐</p>
+
+<!-- 美化版音乐卡片，和你的二次元风格完美匹配 -->
+<div style="background: #161b22; border-radius: 12px; padding: 16px; width: 240px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+  <img src="https://pic1.imgdb.cn/item/69fbe7d14498ed47aaad9263.jpg" width="200" style="border-radius: 8px; margin-bottom: 12px;" />
+  <div style="text-align: left;">
+    <p style="margin: 0 0 8px 0; font-size: 16px; font-weight: 500; color: #fff;">WHITE ALBUM</p>
+    <!-- 官方原生播放器，隐藏了默认的边框，完美融入卡片 -->
+    <video controls width="200" height="40" style="border-radius: 4px;">
+      <source src="https://github.com/user-attachments/assets/b74d50df-bc9b-4f3c-aceb-e8356e99ab92" type="video/mp4">
+    </video>
+  </div>
+</div>
+<p style="font-size:14px; color:#aaa; margin-top: 8px;">点击播放，开启音量即可收听</p>
 
 <br><br>
 </div>
