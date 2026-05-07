@@ -14,7 +14,7 @@
 <!-- ====================== 你的音乐播放器 ↓ ====================== -->
 <br><br>
 <h3>🎵 WHITE ALBUM</h3>
-<video controls src="https://github.com/RinTaigyoku/RinTaigyoku/tree/main/assets/WHITE ALBUM.mp4" width="320" height="60" />
+<video controls src="https://raw.githubusercontent.com/RinTaigyoku/RinTaigyoku/main/assets/WHITE%20ALBUM.mp4" width="320" height="60" preload="auto" />
 <!-- ====================== 播放器结束 ↑ ====================== -->
 
 <br><br>
