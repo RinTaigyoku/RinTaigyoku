@@ -13,8 +13,8 @@
 
 <br><br>
 <h3>🎵 WHITE ALBUM</h3>
-<!-- 点击封面跳转播放，100%稳定显示 -->
-<a href="https://github-production-user-asset-6210df.s3.amazonaws.com/90033375/588623388-b74d50df-bc9b-4f3c-aceb-e8356e99ab92.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260507T011003Z&X-Amz-Expires=300&X-Amz-Signature=bc78a5ba0392d258e077734e8cbbc7af92d0e61c3fdbd6a199a114e4e8a7cbc8&X-Amz-SignedHeaders=host&response-content-type=video%2Fmp4">
+<!-- 点击封面直接播放你的MP3 -->
+<a href="https://videotourl.com/audio/1778116748227-3e34a1a3-f6b6-4a89-92c1-45c4330e6394.mp3">
   <img src="https://pic1.imgdb.cn/item/69fbe7d14498ed47aaad9263.jpg" width="200" alt="点击播放 WHITE ALBUM" />
 </a>
 <p style="font-size:14px; color:#aaa;">点击封面播放音乐</p>
