@@ -2,7 +2,8 @@
 <img src="https://pic1.imgdb.cn/item/69fbc22c4498ed47aaad22c2.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=2850&pause=300&center=true&multiline=true&width=1300&height=140&lines=Welcome+to+my+GitHub.;I'm+RinTaigyoku." width="70%" />
 <br><br>
-<pre>
+<!-- 文字改大，背景上下加高 -->
+<pre style="padding: 20px 16px; font-size: 16px;">
     💼：桜都科技联合创始人、音乐人、UP主
     💻：JavaScript、PHP、HTML、XML、JSON…
     🎮：彩虹六号、明日方舟、第五人格
@@ -16,6 +17,5 @@
   <a href="https://videotourl.com/audio/1778116748227-3e34a1a3-f6b6-4a89-92c1-45c4330e6394.mp3" target="_blank" rel="noopener noreferrer">
     <img src="https://pic1.imgdb.cn/item/69fbf3a04498ed47aaad9eb2.png" width="100" alt="WHITE ALBUM 圆形封面" />
   </a>
-
-  <p style="font-size: 10px; color:#aaa; margin: 8px 0 0 0; text-align: left;"> 点击封面播放音乐</p>
+  <p style="font-size: 10px; color:#aaa; margin: 8px 0 0 0; text-align: left;">👈 点击圆形封面播放音乐</p>
 </div>
