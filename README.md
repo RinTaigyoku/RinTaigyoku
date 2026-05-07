@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=2850&pause=300&center=true&multiline=true&width=1300&height=140&lines=Welcome+to+my+GitHub.;I'm+RinTaigyoku." width="70%" />
 <br><br>
 
-<div style="background: #161b22; border-radius: 6px; padding: 28px 20px; font-size: 20px; font-family: monospace; text-align: left; display: inline-block;">
+<div style="background-color: var(--color-canvas-subtle); border-radius: 6px; padding: 28px 20px; font-size: 20px; font-family: monospace; text-align: left; display: inline-block;">
     💼：桜都科技联合创始人、音乐人、UP主<br>
     💻：JavaScript、PHP、HTML、XML、JSON…<br>
     🎮：彩虹六号、明日方舟、第五人格<br>
