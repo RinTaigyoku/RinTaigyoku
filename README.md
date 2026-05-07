@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://pic1.imgdb.cn/item/69fbc22c4498ed47aaad22c2.jpg" width="25%" align="right" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=2850&pause=300&center=true&multiple=true&width=1300&height=140&lines=Welcome+to+my+GitHub.;I'm+RinTaigyoku." width="70%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=2850&pause=300&center=true&multiline=true&width=1300&height=140&lines=Welcome+to+my+GitHub.;I'm+RinTaigyoku." width="70%" />
   <br><br>
 
   > ### 💼：桜都科技联合创始人、音乐人、UP主
