@@ -13,15 +13,14 @@
 <br><br><br><br><br><br>
 
 <div>
-  <!-- 先放猫娘在右边 -->
+
   <img src="https://count.kjchmc.cn/get/@RinTaigyoku?theme=asoul" width="25%" align="right" />
 
-  <!-- 再放哈基米在左边 -->
-  <a href="https://videotourl.com/audio/1778116748227-3e34a1a3-f6b6-4a89-92c1-45c4330e6394.mp3" target="_blank">
-    <img src="https://pic1.imgdb.cn/item/69fbc2594498ed47aaad234a.gif" width="100" align="left" />
-  </a>
+  <div align="left">
+    <a href="https://videotourl.com/audio/1778116748227-3e34a1a3-f6b6-4a89-92c1-45c4330e6394.mp3" target="_blank">
+      <img src="https://pic1.imgdb.cn/item/69fbc2594498ed47aaad234a.gif" width="100" />
+    </a>
+    <br>
+    <sub>点哈基米即可播放音乐</sub>
+  </div>
 </div>
-
-<!-- 文字单独放下面 -->
-<br><br><br>
-<sub style="margin-left: 0;">点哈基米即可播放音乐</sub>
