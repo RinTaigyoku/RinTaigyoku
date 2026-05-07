@@ -13,7 +13,8 @@
 
 <br><br>
 <h3>🎵 WHITE ALBUM</h3>
-<video controls muted width="320" height="60">
+
+<video controls width="320" height="60">
   <source src="https://github.com/user-attachments/assets/b74d50df-bc9b-4f3c-aceb-e8356e99ab92" type="video/mp4">
 </video>
 
