@@ -14,8 +14,8 @@
 
 <div style="margin-left: 40px; margin-top: 60px;">
   <a href="https://videotourl.com/audio/1778116748227-3e34a1a3-f6b6-4a89-92c1-45c4330e6394.mp3" target="_blank" rel="noopener noreferrer">
-    <!-- 你自己的圆形图片链接，稳定不失效 -->
     <img src="https://pic1.imgdb.cn/item/69fbf3a04498ed47aaad9eb2.png" width="100" alt="WHITE ALBUM 圆形封面" />
   </a>
-  <p style="font-size:14px; color:#aaa; margin: 8px 0 0 0;"> 点击封面即可播放音乐</p>
+
+  <p style="font-size: 10px; color:#aaa; margin: 8px 0 0 0; text-align: left;"> 点击封面播放音乐</p>
 </div>
