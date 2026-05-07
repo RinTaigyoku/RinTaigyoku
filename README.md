@@ -13,11 +13,9 @@
 
 <br><br>
 <h3>🎵 WHITE ALBUM</h3>
-
-<!-- 👇 这是 100% 能播放的播放器 👇 -->
-<audio controls width="350" style="width:350px; height:40px; filter: invert(1);">
-  <source src="https://raw.githubusercontent.com/RinTaigyoku/RinTaigyoku/main/assets/WHITE%20ALBUM.mp4" type="video/mp4">
-</audio>
+<video controls muted width="320" height="60">
+  <source src="https://github.com/user-attachments/assets/b74d50df-bc9b-4f3c-aceb-e8356e99ab92" type="video/mp4">
+</video>
 
 <br><br>
 </div>
